@@ -9,6 +9,10 @@ h1 {
     font-size: 50px;
 }
 
+h2 {
+    font-size: 35px;
+}
+
 p {
     font-size: 20px;
 }
@@ -70,4 +74,37 @@ img {
 .about-me-text {
     margin: 50px 0;
     text-align: justify;
+}
+
+.revepie-heading {
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.revepie-heading-text {
+    margin: 50px 0;
+}
+
+.receipe-main {
+    display: flex;
+    padding: 0 50px;
+}
+
+.box {
+    box-shadow: 10px 10px 40px -5px gray;
+    border-radius: 50px;
+    margin: 25px;
+}
+
+.container {
+    padding: 25px;
+}
+
+.container img {
+    height: 400px;
+}
+
+.box-heading{
+    margin: 15px 0;
 }
