@@ -1,2 +1,2 @@
 # eat-healthy
-live link: https://github.com/ashikahmedfahim/eat-healthy
+live link: https://ashikahmedfahim.github.io/eat-healthy/
