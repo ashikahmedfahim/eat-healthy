@@ -92,7 +92,7 @@ img {
 }
 
 .box {
-    box-shadow: 10px 10px 40px -5px gray;
+    box-shadow: 10px 10px 20px -5px gray;
     border-radius: 50px;
     margin: 25px;
 }
@@ -107,4 +107,13 @@ img {
 
 .box-heading{
     margin: 15px 0;
+}
+.follower-section{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 100px;
+    padding: 25px;
+    box-shadow: 10px 10px 20px -5px grey;
+    border-radius: 25px;
 }
