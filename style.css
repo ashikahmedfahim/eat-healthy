@@ -50,3 +50,24 @@ img {
     color: white;
     font-size: 20px;
 }
+
+.about-me {
+    background-image: url(./images/Frame-59.jpg);
+    background-size: contain;
+    width: 100%;
+    display: flex;
+    padding: 150px 50px 0 50px;
+    margin-bottom: 100px;
+}
+
+.about-me-img {
+    height: 450px;
+    width: 300px;
+    margin: 0 200px;
+    padding: 0;
+}
+
+.about-me-text {
+    margin: 50px 0;
+    text-align: justify;
+}
